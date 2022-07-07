@@ -1,0 +1,30 @@
+h1 {
+    #Ironbeard {
+        color: teal;}
+    
+    .tooltip {                    
+        background: #eee;           
+        box-shadow: 0 0 5px #999999;
+        color: #333;                
+        display: none;              
+        font-size: 12px;            
+        left: 130px;                
+        padding: 10px;              
+        position: absolute;         
+        text-align: center;         
+        top: 95px;                  
+        width: 80px;                
+        z-index: 10; 
+    #panelMan {
+        width: 250px; 
+        height: 250px;
+    }
+    
+    
+    
+    .panel-primary>.panel-heading {
+      color: white;
+      font-weight: bold;
+      background-color: teal;
+      border-color: teal;
+      font-size: 18px;
